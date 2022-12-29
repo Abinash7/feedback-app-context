@@ -1,0 +1,19 @@
+{
+  "feedbacks": [
+    {
+      "text": "this is the test.",
+      "rating": 5,
+      "id": "ef60ba53-b4e0-4795-9339-fd7027b9a25a"
+    },
+    {
+      "text": "This is the test rating",
+      "rating": 4,
+      "id": "6b80f8c7-a089-4247-8cdc-5faa8588fa67"
+    },
+    {
+      "text": "New testing ",
+      "rating": 2,
+      "id": "2779e5be-a248-4448-a32b-074dcd2711ed"
+    }
+  ]
+}
